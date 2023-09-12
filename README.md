@@ -1,4 +1,4 @@
-# 💫 About Me:
+               # 💫 About Me:
 <br>Hello, I'm Luka from Georgia. I'm a highly dedicated developer who has a passion for problem-solving and a strong enthusiasm for learning new technologies
 
 
@@ -19,8 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LukaTypeScripter&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukapain&" alt="lukatypescripter" /></p>
+![](https://github-contributor-stats.vercel.app/api?username=LukaTypeScripter&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
