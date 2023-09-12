@@ -20,7 +20,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LukaTypeScripter&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukatypescripter&" alt="lukatypescripter" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukapain&" alt="lukatypescripter" /></p>
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
