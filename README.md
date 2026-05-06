@@ -18,6 +18,7 @@ I enjoy solving complex problems, building scalable applications, and continuous
   <a href="https://www.linkedin.com/in/luka-shinjikashvili-543384264/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/luka.shinjikashvili.52/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
   </a>
