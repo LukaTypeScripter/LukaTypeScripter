@@ -85,12 +85,4 @@ I enjoy solving complex problems, building scalable applications, and continuous
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 😂 Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=LukaTypeScripter&icon=5&color=6)](https://visitcount.itsvg.in)
